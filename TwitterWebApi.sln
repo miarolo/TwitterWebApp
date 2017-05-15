@@ -1,0 +1,41 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TWA.UI", "TwitterWebApi\TWA.UI.csproj", "{A1B023D8-271D-4FB4-9128-A9736D575A32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TWA.Interfaces", "TWA.Interfaces\TWA.Interfaces.csproj", "{B86D2CBB-D30C-4239-BD13-62D657211546}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TWA.Business", "TWA.Business\TWA.Business.csproj", "{DAD02A58-52F6-4FCA-B92C-D98F857513B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TWA.DependencyResolution", "TWA.DependencyResolution\TWA.DependencyResolution.csproj", "{6CFC5EF7-3271-4BA1-AC17-28A1C5071DBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TWA.Models", "TWA.Models\TWA.Models.csproj", "{9821FC9C-24CE-4D24-8BBF-9C3717C083EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1B023D8-271D-4FB4-9128-A9736D575A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B023D8-271D-4FB4-9128-A9736D575A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B023D8-271D-4FB4-9128-A9736D575A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B023D8-271D-4FB4-9128-A9736D575A32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B86D2CBB-D30C-4239-BD13-62D657211546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86D2CBB-D30C-4239-BD13-62D657211546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86D2CBB-D30C-4239-BD13-62D657211546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86D2CBB-D30C-4239-BD13-62D657211546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD02A58-52F6-4FCA-B92C-D98F857513B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD02A58-52F6-4FCA-B92C-D98F857513B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD02A58-52F6-4FCA-B92C-D98F857513B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD02A58-52F6-4FCA-B92C-D98F857513B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CFC5EF7-3271-4BA1-AC17-28A1C5071DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CFC5EF7-3271-4BA1-AC17-28A1C5071DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CFC5EF7-3271-4BA1-AC17-28A1C5071DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CFC5EF7-3271-4BA1-AC17-28A1C5071DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9821FC9C-24CE-4D24-8BBF-9C3717C083EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9821FC9C-24CE-4D24-8BBF-9C3717C083EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9821FC9C-24CE-4D24-8BBF-9C3717C083EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9821FC9C-24CE-4D24-8BBF-9C3717C083EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
